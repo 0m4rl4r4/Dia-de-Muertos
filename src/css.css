@@ -1,0 +1,237 @@
+.fondo{
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+h1{
+    text-align: center;
+}
+
+.adjust{
+    font-size: small;
+    text-align: center;
+    font-style: italic;
+    color: black;
+}
+
+ul{
+    text-align: center;
+}
+
+div{
+    border-radius: 15px;
+}
+
+.container{
+    max-width: 1010px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #2b0347;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.container1{
+    max-width: 1010px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: #892d05;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+#fondo {
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(FondoHeader.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+#fondo1 {
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Tapete1.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#fondo2{
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Tapete2.2.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#fondo3{
+    width: 350px;
+    height: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Tapete3.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#altar{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Altar.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}       
+
+#catrinas1{
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Catrinas1.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#catrinas2{
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Catrinas2.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#calaveritas{
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(calaveritas.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#conferencia{
+    width: 600px;
+    height: 600px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(cristobalp.png);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#ballet{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Ballet.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#rondalla{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(rondalla.jpeg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#leyendas{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(leyendas.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#viento{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(Viento.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#macario{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(macario.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#libro{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(libro.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#noche{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(noche.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+#botana{
+    width: 800px;
+    height: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-image:url(BoletosMuertos.jpg);
+    background-size: contain;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
